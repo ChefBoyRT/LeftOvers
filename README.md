@@ -1,4 +1,6 @@
-![Alt Text](https://media.giphy.com/media/lRk6XwfgYTRHtZfZsj/giphy.gif)
+<p align='center'>
+    ![Alt Text](https://media.giphy.com/media/lRk6XwfgYTRHtZfZsj/giphy.gif)
+</p>
 
 # Leftovers
 > A personal food waste tracking app.
