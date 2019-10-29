@@ -3,7 +3,6 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Intro Video](#intro-video)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -18,16 +17,17 @@ expiration date, quantity, and price. Leftovers will display the information on 
 amount of time in days until the expiration date. The card dynamically updates from green, yellow, to red as the ingredient 
 approaches its expiration date to provide visual cues for users. If food will not be used before expiration, convert the food to food waste by filling out the form. Then, navigate to the waste dashboard to view your waste habits over time. To prevent food from turning to waste, check out the find recipes tab to convert your current digital fridge into declicious recipes.
 
-## Intro Video
-[Leftovers on YouTube](https://www.youtube.com/watch?v=qxT1I0RSelE)
-
 ## Technologies
+* React
+* React Native
+* Victory Charts
+* Recipe API
 * HTML5
 * CSS
 * Javascript
 * Ruby - version 2.6.1
 * ActiveRecord - version 5.2
-* SQLite3 - version 1.4
+* PostgreSQL - version 11
 
 ## Code Examples
 ```javascript
