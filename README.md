@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="550" height="400" src="https://media.giphy.com/media/lRk6XwfgYTRHtZfZsj/giphy.gif">
+  <img width="600" height="400" src="https://media.giphy.com/media/lRk6XwfgYTRHtZfZsj/giphy.gif">
 </p>
 
 # Leftovers
