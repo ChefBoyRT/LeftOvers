@@ -1,3 +1,5 @@
+![Alt Text](https://media.giphy.com/media/lRk6XwfgYTRHtZfZsj/giphy.gif)
+
 # Leftovers
 > A personal food waste tracking app.
 
@@ -48,6 +50,7 @@ function dateDifference(expirationDate) {
 
     return daysToExpiration
 }
+```
 
 ## Features
 * View food waste cards.
