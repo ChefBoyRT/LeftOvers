@@ -1,0 +1,39 @@
+.createNewUser-form {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    border: 1px white solid;
+    width: 25rem;
+    height: fit-content;
+    padding: 1rem;
+    line-height: 3rem;
+}
+
+.new-user-container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.new-name-input {
+    border: none;
+    border-bottom: 1px black solid;
+    color: white;
+}
+
+.new-username-input {
+    border: none;
+    border-bottom: 1px black solid;
+    color: white;
+}
+
+.new-user-message {
+    font-weight: 100;
+    letter-spacing: .04rem;
+}
+
+.new-user-content input {
+    width: 18rem;
+    font-size: 1rem;
+    letter-spacing: .05rem;
+}

@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Hepta+Slab:400,700&display=swap');
+
+* {
+    font-family: 'Hepta Slab', serif;
+    outline: none;
+}
+
+.App {
+    display: flex;
+    justify-content: center;
+}
+
+html, body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+}

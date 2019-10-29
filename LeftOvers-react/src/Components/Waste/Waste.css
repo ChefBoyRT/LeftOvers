@@ -1,0 +1,64 @@
+.new-waste-form {
+    line-height: 1.9rem;
+}
+
+.waste-form-food-name-input {
+    font-size: 0.8rem;
+    text-align: center;
+    width: 7rem;
+    border: 0;
+    border-bottom: 1px black solid;
+}
+
+.waste-form-quantity-input {
+    font-size: 0.8rem;
+    text-align: center;
+    width: 5rem;
+    border: 0;
+    border-bottom: 1px black solid;
+}
+
+.dashboard-title {
+    text-align: center;
+    margin: 0;
+    margin-top: 2rem;
+    font-size: 3rem;
+}
+
+.dashboard {
+    margin: 0;
+    border: 1px solid black;
+    margin-right: 5rem;
+    margin-left: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 10rem;
+    box-shadow: 5px 5px 5px 5px lightgrey;
+}
+
+.bar-chart-title {
+    text-align: center;
+    position: relative;
+    top: 3rem;
+}
+
+.bar-chart {
+    margin-right: 7rem;
+}
+
+.pie-chart {
+    margin-right: 3rem;
+}
+
+.pie-chart-title {
+    position: relative;
+    top: 3rem;
+    text-align: center;
+}
+
+.line-graph {
+    margin-bottom: 4rem;
+}
+
+.line-graph-title {
+    text-align: center;
+}

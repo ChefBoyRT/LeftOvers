@@ -1,0 +1,83 @@
+.login-title {
+    font-size: 4rem;
+    font-weight: bold;
+    letter-spacing: .2rem;
+}
+
+.login-message {
+    font-size: 1.3rem;
+    font-weight: 100;
+}
+
+.login-container {
+    text-align: center;
+    height: 100rem;
+    width: 100%;
+    background-color: rgb(42, 42, 58);
+    color: white;
+}
+
+.login-form {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.username-input {
+    height: 2.8rem;
+    width: 30rem;
+    border: 0;
+    text-align: left;
+    border-bottom: 1px white solid;
+    background-color: rgb(42, 42, 58);
+    color: white;
+    margin: 1rem;
+    font-size: 1rem;
+    letter-spacing: 0.05rem;
+}
+
+.new-name-input {
+    background-color: rgb(42, 42, 58);
+    border: 0;
+    border-bottom: 1px white solid;
+}
+
+.new-username-input {
+    background-color: rgb(42, 42, 58);
+    border: 0;
+    border-bottom: 1px white solid;
+}
+
+.password-input {
+    height: 2.8rem;
+    width: 30rem;
+    border: 0;
+    text-align: left;
+    border-bottom: 1px white solid;
+    background-color: rgb(42, 42, 58);
+    color: white;
+    margin: 1rem;
+    font-size: 1rem;
+}
+
+.button-login {
+    height: 3rem;
+    width: 7.2rem;
+    border-radius: 2rem;
+    border: 1px black solid;
+    margin: 1rem;
+    font-size: .8rem;
+}
+
+.button-newUser {
+    height: 3rem;
+    width: 7.2rem;
+    border-radius: 2rem;
+    border: 1px black solid;
+    margin: 1rem;
+    font-size: .8rem;
+}
+
+::placeholder {
+    color: white;
+}

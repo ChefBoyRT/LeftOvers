@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  expiration_date: 2019-10-09
+  quantity: 1.5
+  quantity_unit: MyString
+  value: 1.5
+  food_category: MyString
+  user: one
+
+two:
+  name: MyString
+  expiration_date: 2019-10-09
+  quantity: 1.5
+  quantity_unit: MyString
+  value: 1.5
+  food_category: MyString
+  user: two
