@@ -1,9 +1,11 @@
 <p align="center">
-  <img width="600" height="400" src="https://media.giphy.com/media/lRk6XwfgYTRHtZfZsj/giphy.gif">
-</p>
-
 # Leftovers
 > A personal food waste tracking app.
+</p>
+
+<p align="center">
+  <img width="600" height="400" src="https://media.giphy.com/media/lRk6XwfgYTRHtZfZsj/giphy.gif">
+</p>
 
 ## Table of contents
 * [General info](#general-info)
