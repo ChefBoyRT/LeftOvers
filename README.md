@@ -1,5 +1,5 @@
 # Leftovers
-> A personal food waste tracker.
+> A personal food waste tracking app.
 
 ## Table of contents
 * [General info](#general-info)
