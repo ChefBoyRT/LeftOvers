@@ -1,5 +1,9 @@
-<p align='center'>
-    ![Alt Text](https://media.giphy.com/media/lRk6XwfgYTRHtZfZsj/giphy.gif)
+<p align="center">
+![Alt Text](https://media.giphy.com/media/lRk6XwfgYTRHtZfZsj/giphy.gif)
+</p>
+
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/lRk6XwfgYTRHtZfZsj/giphy.gif">
 </p>
 
 # Leftovers
