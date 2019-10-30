@@ -58,19 +58,13 @@ function dateDifference(expirationDate) {
 * View food waste cards.
 * Create food waste cards.
 * Update food waste cards.
-<p border='1px black solid' align="center">
-  <img src="https://media.giphy.com/media/dv1KzhUtPlTfDtBLAT/giphy.gif">
-</p>
+<img src="https://media.giphy.com/media/dv1KzhUtPlTfDtBLAT/giphy.gif">
 
 * View food waste on waste dashboard.
-<p align="center">
-  <img src="https://media.giphy.com/media/cJYIMmn2zEAhaGIgJO/giphy.gif">
-</p>
+<img src="https://media.giphy.com/media/cJYIMmn2zEAhaGIgJO/giphy.gif">
 
 * Find recipes for food currently stocked in digital fridge.
-<p align="center">
-  <img src="https://media.giphy.com/media/hXC58goXI8QBh5v48S/giphy.gif">
-</p>
+<img src="https://media.giphy.com/media/hXC58goXI8QBh5v48S/giphy.gif">
 
 To-do list:
 * Refactor “code smell”
