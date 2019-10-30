@@ -5,14 +5,6 @@
   <img src="https://media.giphy.com/media/YTKmol2u3GY1gai3Y4/giphy.gif">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/dv1KzhUtPlTfDtBLAT/giphy.gif">
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/cJYIMmn2zEAhaGIgJO/giphy.gif">
-</p>
-
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -66,8 +58,19 @@ function dateDifference(expirationDate) {
 * View food waste cards.
 * Create food waste cards.
 * Update food waste cards.
+<p align="center">
+  <img src="https://media.giphy.com/media/dv1KzhUtPlTfDtBLAT/giphy.gif">
+</p>
+
 * View food waste on waste dashboard.
+<p align="center">
+  <img src="https://media.giphy.com/media/cJYIMmn2zEAhaGIgJO/giphy.gif">
+</p>
+
 * Find recipes for food currently stocked in digital fridge.
+<p align="center">
+  <img src="https://media.giphy.com/media/hXC58goXI8QBh5v48S/giphy.gif">
+</p>
 
 To-do list:
 * Refactor “code smell”
