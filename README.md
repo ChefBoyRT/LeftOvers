@@ -58,7 +58,7 @@ function dateDifference(expirationDate) {
 * View food waste cards.
 * Create food waste cards.
 * Update food waste cards.
-<p align="center">
+<p border='1px black solid' align="center">
   <img src="https://media.giphy.com/media/dv1KzhUtPlTfDtBLAT/giphy.gif">
 </p>
 
