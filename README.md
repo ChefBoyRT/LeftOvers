@@ -8,8 +8,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
 * [Status](#status)
 * [Inspiration](#inspiration)
 * [Contact](#contact)
@@ -32,27 +30,6 @@ approaches its expiration date to provide visual cues for users. If food will no
 * Ruby - version 2.6.1
 * ActiveRecord - version 5.2
 * PostgreSQL - version 11
-
-## Code Examples
-```javascript
-function dateDifference(expirationDate) {
-    let todaysDate = new Date(Date.now()).toLocaleString().split(', ')[0]
-    let splitTodaysDate = todaysDate.split('/')
-    let todaysDay = parseInt(splitTodaysDate[1], 10)
-    let todaysMonth = parseInt(splitTodaysDate[0], 10)
-    let todaysYear = parseInt(splitTodaysDate[2], 0)
-
-    let splitExpirationDate = expirationDate.split('-')
-    let expirationDay = parseInt(splitExpirationDate[2], 10)
-    let expirationMonth = parseInt(splitExpirationDate[1], 10)
-    let expirationYear = parseInt(splitExpirationDate[0])
-    
-    let daysToExpiration = (expirationDay - todaysDay) + ((expirationMonth - todaysMonth) * 30) + ((expirationYear - todaysYear))
-    daysToExpiration * -1
-
-    return daysToExpiration
-}
-```
 
 ## Features
 * View food waste cards.
