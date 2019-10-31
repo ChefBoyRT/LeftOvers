@@ -43,8 +43,10 @@ approaches its expiration date to provide visual cues for users. If food will no
 * Find recipes for food currently stocked in digital fridge.
 <img src="https://media.giphy.com/media/hXC58goXI8QBh5v48S/giphy.gif">
 
-To-do list:
-* Refactor “code smell”
+## To-do list:
+* Build out functionality React Native app
+* Incorporate barcode scanning api to reduce amount of user input
+* Add friends functionality
 
 ## Status
 Project is: finished with option to expand functionality and DRY out code.
