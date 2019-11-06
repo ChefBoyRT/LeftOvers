@@ -17,7 +17,7 @@
 Leftovers is a simple web application that helps users monitor and track food waste. Enter the ingredient name,
 expiration date, quantity, and price. Leftovers will display the information on an easy to read card that calculates the 
 amount of time in days until the expiration date. The card dynamically updates from green, yellow, to red as the ingredient 
-approaches its expiration date to provide visual cues for users. If food will not be used before expiration, convert the food to food waste by filling out the form. Then, navigate to the waste dashboard to view your waste habits over time. To prevent food from turning to waste, check out the find recipes tab to convert your current digital fridge into declicious recipes.
+approaches its expiration date to provide visual cues for users. If food will not be used before expiration, convert the food to food waste by filling out the form. Then, navigate to the waste dashboard to view your waste habits over time. To prevent food from turning to waste, check out the find recipes tab to convert your current digital fridge into delicious recipes.
 
 ## Technologies
 * React
@@ -44,7 +44,7 @@ approaches its expiration date to provide visual cues for users. If food will no
 <img src="https://media.giphy.com/media/hXC58goXI8QBh5v48S/giphy.gif">
 
 ## To-do list:
-* Build out functionality React Native app
+* Build out functionality of React Native app
 * Incorporate barcode scanning api to reduce amount of user input
 * Add friends functionality
 
